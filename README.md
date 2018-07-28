@@ -1,2 +1,2 @@
 # NoteBook
-For notes backup.
+See issues for notes backup.
